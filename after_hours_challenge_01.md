@@ -48,7 +48,7 @@
 0. Print out a sentence for each item inside of the dictionar(y/ies), for example:
 
     ```
-    friends = {"name" :"steve", "smell": "oniony"]
+    friends = {"name" :"steve", "smell": "oniony"}
     print(f"I think {friends['name']} smells {friends['smell']")
     ```
     
