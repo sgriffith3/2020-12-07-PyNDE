@@ -18,7 +18,7 @@ Thinking of a grocery list, it might be:
 # my_blank_list = []
 # basic_list = ["item1", "item2"]
 
-groceries = [ "eggs",3.14,"milk","bread","bacon","cheese" ]
+groceries = ["eggs", 3.14, "milk", "bread", "bacon", "cheese"]
 # index        0      1      2         3       4         5  
 
 print(groceries)
