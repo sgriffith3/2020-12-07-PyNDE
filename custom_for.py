@@ -7,7 +7,6 @@ farms = [{"name": "NE Farm", "agriculture": ["sheep", "cows", "pigs", "chickens"
 for x in farms:
     print("Information is : " + str(x))
 
-
 for num, farm in enumerate(farms):
     print(f"Farm #{num} is called {farm['name']} and has:")
     for ag in farm['agriculture']:
