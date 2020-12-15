@@ -1,7 +1,11 @@
-
-# create a function that adds 111 to any number
+"""
+This is an example of a basic function.
+"""
 
 def add_111(any_number):
+    """
+    This function adds 111 to any_number
+    """
     response = any_number + 111
     print(f"Your number is: {response}")
     return response
